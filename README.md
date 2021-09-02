@@ -1,4 +1,4 @@
-# Getting_Started Exercise
+# Getting Started Exercise
 
 |Class|Week|
 |-----|----|
